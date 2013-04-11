@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h1>Hello every body</h1>
-	<p>Application owner: Eyad Mohammed Elfarra</p>
+	<p>Application owner: Eyad Mohammed Elfarra.</p>
 	<h4>Hosted By: OpenShift</h4>
 	<dl>
 		<dt>OpenShift</dt>
